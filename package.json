@@ -20,7 +20,7 @@
         "dist"
     ],
     "scripts": {
-        "prettier": "prettier . --write --ignore-unknown --config src/index.js"
+        "format": "prettier . --write --ignore-unknown --config src/index.js"
     },
     "dependencies": {
         "prettier": "^3.4.2",
